@@ -1,6 +1,6 @@
 A Simple exercise to understand protocols
 
-Build a pp2p chat program CMD line interface
+Build a P2P chat program CMD line interface
 
 Two instances of program will run
 Can type a msg in the cmd-line window of one, to send send a msg
