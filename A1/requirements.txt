@@ -1,0 +1,13 @@
+A Simple exercise to understand protocols
+
+Build a pp2p chat program CMD line interface
+
+Two instances of program will run
+Can type a msg in the cmd-line window of one, to send send a msg
+The other program instance will receive and show the msg
+Both sides can initaite text msg anytime
+Use simple cmd line interface (no UI to be done)
+Simple socket programming alone can be used (no other libraries or APIs to be used). On sockets use simple HTTP protocol, that you construct (and not use any http api). Can setup one instance as server (using cmd line options when you start)
+​Use only sockets. And http as protocol to communicate on sockets. Python if possible
+
+Submit the exe file. If exe is run with no cmd line options, you shd show the option to start server and client. 

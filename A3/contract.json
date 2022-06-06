@@ -1,0 +1,48 @@
+{
+    "remote_procedures":[
+        {
+            "procedure_name": "foo",
+            "parameters":[
+                {
+                    "parameter_name":"par_1",
+                    "data_type":"int"
+                }
+            ],
+            "return_type":"string"
+        },
+        {
+            "procedure_name": "bar",
+            "parameters":[
+                {
+                    "parameter_name":"par_1",
+                    "data_type":"int"
+                },
+                {
+                    "parameter_name":"par_2",
+                    "data_type":"string"
+                }
+            ],
+            "return_type":"int"
+        },
+        {
+            "procedure_name": "upperCase",
+            "parameters":[
+                {
+                    "parameter_name":"par_1",
+                    "data_type":"str"
+                }
+            ],
+            "return_type":"string"
+        },
+        {
+            "procedure_name": "setName",
+            "parameters":[
+                {
+                    "parameter_name":"par_1",
+                    "data_type":"str"
+                }
+            ],
+            "return_type":"void"
+        }
+    ]
+}
